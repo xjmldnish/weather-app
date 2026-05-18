@@ -3,7 +3,7 @@
 A real-time weather application built with React that fetches live weather data from the OpenWeatherMap API. Search any city in the world and instantly see temperature, humidity, wind speed, and more.
 
 ## 🌐 Live Demo
-[Click here to view the live app](YOUR_VERCEL_URL)
+[Click here to view the live app](https://weather-app-delta-ochre-480gm64psu.vercel.app/)
 
 ## 📸 Features
 - 🔍 Search any city worldwide
